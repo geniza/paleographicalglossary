@@ -20,9 +20,9 @@ source-code: https://github.com/geniza/paleographicalglossary
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CCG 
+title: Coins of the Cairo Geniza: A Paleographical Glossary for Dating Fragments
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: in development
+tagline: web development in progress
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: ""
@@ -34,7 +34,7 @@ author: geniza
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: coinsofcairogenizabackendtest2 
+metadata: coinsofcairogenizabackendtest3 
 
 ##########
 # Site/Organization Branding 
