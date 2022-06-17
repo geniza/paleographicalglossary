@@ -1,5 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
+transliteration, Transliteration(s),
+synonym, Synonym(s),
 creator,Creator,
 date,Initial Production Year,
 description,Description,
