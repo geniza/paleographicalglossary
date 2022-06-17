@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Initial Production Year,,,
+date,Initial Production Year (CE),,,
 transliteration,Transliteration(s),,,
 creator,Creator,,,
 subject,,true
