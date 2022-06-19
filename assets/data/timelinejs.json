@@ -13,8 +13,7 @@
           "credit": {{ site.title | jsonify }}
         },
         "text": {
-          "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": {{ site.description | jsonify }}
+          "headline": {{ site.title | append: ': Analytical Timeline' | jsonify }}
         }
     },
     "events": [
