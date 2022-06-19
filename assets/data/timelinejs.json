@@ -8,7 +8,7 @@
 {
     "title": {
         "media": {
-          "url": "{% include image/featured-image.html %}",
+          "url": "{% include image/featured-image.html %}"
         },
         "text": {
           "headline": {{ site.title | append: ' Numismatic Timeline' | jsonify }},
