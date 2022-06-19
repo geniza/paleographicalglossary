@@ -4,21 +4,10 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-12">
 
     {% include index/description.html %}
     {% include feature/timelinejs.html %}
-  
-  </div>
-  <div class="col-md-4">  
-
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-
-    {% include index/objects.html %}
 
   </div>
   <div class="col-md-12">
