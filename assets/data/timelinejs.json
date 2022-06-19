@@ -7,14 +7,8 @@
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.date' -%}
 {
     "title": {
-        "media": {
-          "url": "{% include image/featured-image.html %}",
-          "caption": {{ featuredItem.title | jsonify }},
-          "credit": {{ site.title | jsonify }}
-        },
         "text": {
-          "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": {{ site.description | jsonify }}
+          "headline": {{ site.title | append: ' Numismatic Timeline' | jsonify }},
         }
     },
     "events": [
