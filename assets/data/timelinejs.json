@@ -8,12 +8,10 @@
 {
     "title": {
         "media": {
-          "url": "{% include image/featured-image.html %}",
-          "caption": {{ featuredItem.title | jsonify }},
-          "credit": {{ site.title | jsonify }}
+          "url": "{% include image/featured-image.html %}"
         },
         "text": {
-          "headline": {{ site.title | append: ': Analytical Timeline' | jsonify }}
+          "headline": {{ site.title | append: ' Timeline' | jsonify }}
         }
     },
     "events": [
