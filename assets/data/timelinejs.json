@@ -8,10 +8,13 @@
 {
     "title": {
         "media": {
-          "url": "{% include image/featured-image.html %}"
+          "url": "{% include image/featured-image.html %}",
+          "caption": {{ featuredItem.title | jsonify }},
+          "credit": {{ site.title | jsonify }}
         },
         "text": {
-          "headline": {{ site.title | append: ' Numismatic Timeline' | jsonify }},
+          "headline": {{ site.title | append: ' Timeline' | jsonify }},
+          "text": {{ site.description | jsonify }}
         }
     },
     "events": [
