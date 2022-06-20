@@ -5,6 +5,7 @@ synonym, Synonym(s),
 date,Initial Production Year (CE),
 shelfmark, Image Shelfmark(s):
 description,Description,
+citation, Citation(s)
 subject,Subjects,true
 source,Source
 rights,Rights,
