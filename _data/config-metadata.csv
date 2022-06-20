@@ -2,15 +2,10 @@ field,display_name,browse_link,external_link
 title,Title,
 transliteration, Transliteration(s),
 synonym, Synonym(s),
-creator,Creator,
 date,Initial Production Year (CE),
+shelfmark, Image Shelfmark(s):
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
-identifier,Source Identifier,,
-type,Type,
 rights,Rights,
 rightsstatement,Rights Statement,,true
