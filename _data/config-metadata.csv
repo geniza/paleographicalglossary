@@ -3,10 +3,10 @@ title,Title,
 transliteration, Transliteration(s),
 synonym, Synonym(s),
 date,Initial Production Year (CE),
-shelfmark, Image Shelfmark(s):
+shelfmark, Image Shelfmark(s),
 description,Description,
-citation, Citation(s)
 subject,Subjects,true
-source,Source
+source,Geniza Collection,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,
+citation, Citation(s),,true
