@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 transliteration, Transliteration(s),
 synonym, Synonym(s),
+language, Language(s),
 date,Initial Production Year (CE),
 shelfmark, Image Shelfmark(s),
 description,Description,
