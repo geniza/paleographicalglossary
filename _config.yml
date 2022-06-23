@@ -25,7 +25,7 @@ title: Coins of the Cairo Geniza
 tagline: Web Development in Progress
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "We have developed this digital resource, first and foremost, to assist researchers in dating geniza fragments that do not explicitly mention year(s) of recording but instead retain numismatic data. In many instances, the production history of various coinage types can aid in estimating a text's dating. In the process of constructing this database and glossary we also began to compile economic units and terminology that may hold additional relevance for research in the medieval and early modern Cairo Geniza."
+description: "We have developed this digital resource to assist researchers in dating geniza fragments that do not explicitly mention year(s) of recording but instead retain numismatic data. In many instances, the production history of various coinage types can aid in estimating a text's dating. In the process of constructing this database and glossary we also began to compile economic units and terminology that may hold additional relevance for research in the medieval and early modern Cairo Geniza."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: geniza
 
