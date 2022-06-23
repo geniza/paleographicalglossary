@@ -7,6 +7,7 @@ shelfmark, Image Shelfmark(s),
 description,Description,
 subject,Subjects,true
 source,Geniza Collection,
+link, Full Fragment Image,,true
 rights,Rights,
-rightsstatement,Rights Statement,
-citation, Citation(s),,true
+rightsstatement,Rights Statement,,true
+citation, Citation(s),,
