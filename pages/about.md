@@ -10,7 +10,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="How to Use the Numismatic Timeline; About the Authors; Special Thanks" %}
 
+{% include feature/image.html objectid="example" width="75" %}{% endraw %}
+
 ## How to Use the Numismatic Timeline in Estimating a Fragment's Dating
 
-{% include feature/image.html objectid="example" width="75" %}{% endraw %}
 
