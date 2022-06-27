@@ -14,6 +14,8 @@ credits: true
 
 {% include feature/image.html objectid="https://iiif-cloud.princeton.edu/iiif/2/1e%2F54%2Fbe%2F1e54be1b76b64b36a8974f41fa4f6985%2Fintermediate_file/full/1501,/0/default.jpg" %}
 
+**Shelfmark:** ENA NS 19 **Provenance:** Image courtesy of the Jewish Theological Seminary Library (JTSL) - [Image Link](https://dpul.princeton.edu/cairo_geniza/catalog/dcwd3766241) - [Rights Statement](https://creativecommons.org/publicdomain/zero/1.0/)
+
 ## About the Authors
 
 ## Special Thanks
