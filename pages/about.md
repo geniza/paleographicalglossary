@@ -12,7 +12,7 @@ credits: true
 
 ## How to Use the Numismatic Timeline in Estimating a Fragment's Dating
 
-{% include cb/about_the_about.md %}
+{% include feature/image.html objectid="https://iiif-cloud.princeton.edu/iiif/2/1e%2F54%2Fbe%2F1e54be1b76b64b36a8974f41fa4f6985%2Fintermediate_file/full/1501,/0/default.jpg" %}
 
 ## About the Authors
 
