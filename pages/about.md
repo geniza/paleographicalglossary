@@ -12,5 +12,5 @@ credits: true
 
 ## How to Use the Numismatic Timeline in Estimating a Fragment's Dating
 
-{% raw %}{% include feature/image.html objectid="example" width="75" %}{% endraw %}
+{% include feature/image.html objectid="example" width="75" %}{% endraw %}
 
