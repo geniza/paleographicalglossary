@@ -20,6 +20,7 @@ The shelfmark below demonstrates how certain numismatic references can assist us
 **Shelfmark:** ENA NS 19.17 **Provenance:** Image courtesy of the Jewish Theological Seminary Library (JTSL) - [Image Link](https://dpul.princeton.edu/cairo_geniza/catalog/dcwd3766241) - [Rights Statement](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Transcription:**
+
 1 נשהד עלי סלימאן אן ענדה
 
 2 ופי דמתה לשיך לטף אללה
@@ -38,7 +39,7 @@ The shelfmark below demonstrates how certain numismatic references can assist us
 
 9 לדיני גויים בגיר משאורה
 
-10 בית דין ולה דלך
+10 בית דין ולה דלך 
 
 **Translation:** "We testify that Sulaymān owes a debt to Luṭfallāh of 288½ kāmilī dirhams, to be paid in monthly installments of 12 nuqra (high-value silver coinage), the installments due at the end of each month. If he misses two months of payments, he will be obligated to pay in gentile courts..."
 
