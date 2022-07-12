@@ -12,7 +12,7 @@ credits: true
 
 ## How to Use the Numismatic Timeline in Estimating a Fragment's Dating
 
-The shelfmark below demonstrates how certain numismatic references can assist us in tracing a chronological "bottom line" for a given fragment. Although this debt acknowledgement ENA NS 19.17 is brief and undated, the designation of the dirhams as *Kāmilīyye* (כאמליה) in line four makes it possible to estimate the year of recording as **no earlier than 1225 CE (622 AH)**. At this point in time, Sultan al-Kāmil Nāṣr ad-Dīn Muḥammad (r. 1218-1238 CE) implemented new mintage standards for dirhams in an effort to curtail the circulation of lower-quality silver currency in the Ayyubid realm. Accordingly, the Paleographical Glossary designates this coinage type with the tag [regnal variant](https://geniza.github.io/paleographicalglossary/browse.html#regnal%20variant). There are two other methods in which numismatic references can help us determine the earliest year in which a fragment could have been recorded. The first method revolves around the instances in which state entities founded brand new coinage types: a phenomenon that became more common with the onset of Ottoman imperial rule in Egypt. The third method is the most rare and is attested in a handful of documents that reference the standards implemented by heads of the local mint in Cairo 
+The shelfmark below demonstrates how certain numismatic references can assist us in tracing a chronological "bottom line" for a given fragment. Although this debt acknowledgement ENA NS 19.17 is brief and undated, the designation of the dirhams as *Kāmilīyye* (כאמליה) in line four makes it possible to estimate the year of recording as **no earlier than 1225 CE (622 AH)**. At this point in time, Sultan al-Kāmil Nāṣr ad-Dīn Muḥammad (r. 1218-1238 CE) implemented new mintage standards for dirhams in an effort to curtail the circulation of lower-quality silver currency in the Ayyubid realm. Accordingly, the Paleographical Glossary designates this coinage type with the tag [regnal variant](https://geniza.github.io/paleographicalglossary/browse.html#regnal%20variant). There are two other methods in which numismatic references can help us determine the earliest year in which a fragment could have been recorded. The first method relies on the instances in which state entities founded brand new coinage types: a phenomenon that became more common with the onset of Ottoman imperial rule in Egypt. The third method is the most rare and is attested in a handful of documents that reference the standards implemented by heads of the local mint in Cairo 
 (see: [mint standard](https://geniza.github.io/paleographicalglossary/browse.html#mint%20standard)). Taken together, these three chronological lines of analysis have yielded the metadata behind the CCG Numismatic Timeline. 
 
 {% include feature/image.html objectid="https://iiif-cloud.princeton.edu/iiif/2/1e%2F54%2Fbe%2F1e54be1b76b64b36a8974f41fa4f6985%2Fintermediate_file/full/1501,/0/default.jpg" %}
@@ -21,14 +21,23 @@ The shelfmark below demonstrates how certain numismatic references can assist us
 
 **Transcription:**
 1 נשהד עלי סלימאן אן ענדה
+
 2 ופי דמתה לשיך לטף אללה
+
 3 מאיתין תמאניה ותמאנין
+
 4 דרהם ונצף כאמליה מקצטה
+
 5 כל שהר אתני עשר נקרה
+
 6 יקום לה קסט כל שהר פי
+
 7 סלכה ואנה אדא אעאק ענה
+
 8 קסט שהרין לה אן ידפעה
+
 9 לדיני גויים בגיר משאורה
+
 10 בית דין ולה דלך
 
 **Translation:** "We testify that Sulaymān owes a debt to Luṭfallāh of 288½ kāmilī dirhams, to be paid in monthly installments of 12 nuqra (high-value silver coinage), the installments due at the end of each month. If he misses two months of payments, he will be obligated to pay in gentile courts..."
