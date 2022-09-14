@@ -1,9 +1,9 @@
 field,index,display
 title,true,true
 transliteration,true,true
-subject,true,true
+subject,true,false
 synonym,true,true
-shelfmark,true,true
+shelfmark,true,false
 description,true,true
 citation,true,true
 
