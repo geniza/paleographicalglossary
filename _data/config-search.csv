@@ -1,5 +1,11 @@
 field,index,display
 title,true,true
+transliteration,true,true
+synonym,true,true
+language,true,true
+shelfmark,true,true
+source,true,true
+citation,true,true
 date,true,true
 creator,true,false
 description,true,true
