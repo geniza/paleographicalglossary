@@ -12,6 +12,7 @@ var idx = lunr(function () {
   {% endfor %}
 
   //this.pipeline.remove(lunr.trimmer)
+  this.pipeline.reset()
 
   for (var item in store) {
     this.add({
