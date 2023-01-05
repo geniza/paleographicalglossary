@@ -43,6 +43,8 @@ The shelfmark below demonstrates how certain numismatic references can assist us
 
 **Translation:** "We testify that Sulaymān owes a debt to Luṭfallāh of 288½ kāmilī dirhams, to be paid in monthly installments of 12 nuqra (high-value silver coinage), the installments due at the end of each month. If he misses two months of payments, he will be obligated to pay in gentile courts..."
 
+edited and translated by Alan Elbaum
+
 ## About the Authors
 
 ## Special Thanks
