@@ -47,4 +47,11 @@ edited and translated by Alan Elbaum
 
 ## About the Authors
 
-## Special Thanks
+Matthew Dudley is a research assistant at the Princeton Geniza Lab and a Ph.D. candidate in History at Yale University where he is completing a dissertation titled: "Into the Anti-Archive: Jewish Law and Ottoman Imperial Administration in the Early Modern Cairo Geniza."
+
+Alan Elbaum is a senior research assistant at the Princeton Geniza Lab and a psychiatry resident at the University of California San Francisco.
+
+## Thanks to the CollectionBuilder Developers
+
+Our work toward building a companion database website for the DPUL exhibition would not have been possible without access to the open source coding framework CollectionBuilder– which was developed by a team at the Center for Digital Inquiry and Learning at the University of Idaho. To the CDIL Co-Directors Devin Becker, Olivia Wikle, and Evan Williamson– thank you for building such an accessible and powerful collection framework for digital humanists.
+
