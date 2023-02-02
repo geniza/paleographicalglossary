@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="How to Use the Numismatic Timeline; About the Authors; Special Thanks" %}
+{% include feature/nav-menu.html sections="How to Use the Glossary; About the Authors; A Debt of Gratitude" %}
 
 ## How to Use the Glossary in Estimating a Fragment's Dating
 
